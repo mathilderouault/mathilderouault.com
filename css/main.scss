@@ -37,3 +37,38 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+// Helpers
+@import
+  'helpers/variables',
+  'helpers/mixins';
+
+// Base
+@import
+  'base/reset';
+
+// Utilities
+@import
+  'utilities/layout';
+
+// Components
+@import
+  'components/header',
+  'components/navigation',
+  'components/article',
+  'components/archives',
+  'components/social',
+  'components/buttons',
+  'components/footer';
+
+// Themes
+@import
+  'themes/blue',
+  'themes/green',
+  'themes/grey',
+  'themes/orange',
+  'themes/purple';
+
+// Vendor
+@import
+  'vendor/syntax-highlighting';
