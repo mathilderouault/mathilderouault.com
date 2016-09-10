@@ -4,7 +4,7 @@ title:  "Windstorm"
 date:   2016-08-15 15:02:28 +0200
 ---
 
-## Introduction et Synopsis
+![]({{ site.url }}/assets/windstorm_3.jpg)
 
 <iframe src="https://player.vimeo.com/video/35993182" width="710" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -16,14 +16,10 @@ Ce court-métrage d’animation a été réalisé dans le cadre d’un exercice 
 
 Un homme veut rejoindre un refuge perché dans les montagnes, mais une tempête sème le doute et la peur sur son passage.
 
-## Images:
-
 ![]({{ site.url }}/assets/windstorm_0.jpg)
 
 ![]({{ site.url }}/assets/windstorm_1.jpg)
 
 ![]({{ site.url }}/assets/windstorm_2.jpg)
-
-![]({{ site.url }}/assets/windstorm_3.jpg)
 
 ![]({{ site.url }}/assets/windstorm_4.jpg)
