@@ -32,9 +32,6 @@ codepenUsername:
 # Build settings
 markdown: kramdown
 
-#theme: purple # green, blue, orange, purple, grey
-fixedNav: 'false' # true or false
-
 permalink: /:title
 markdown: kramdown
 include: [_pages]
