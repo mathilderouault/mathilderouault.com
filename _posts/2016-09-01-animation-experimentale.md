@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Windstorm"
-date:   2016-08-15 15:02:28 +0200
+title: Animation Expérimentale
+date: 2016-08-15 15:02:28 +0200
+thumbnail: AnimationExp.gif
 ---
 
 ![]({{ site.url }}/assets/windstorm_3.jpg)

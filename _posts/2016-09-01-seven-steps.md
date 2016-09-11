@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Seven steps"
-date:   2016-08-15 15:02:28 +0200
+title: Seven steps
+date: 2016-08-15 15:02:28 +0200
+thumbnail: DavidVent-carre.gif
 ---
 
 ## Introduction et Synopsis
@@ -26,38 +27,38 @@ Film muet, la musique (composée et interprétée par Alexis Ciesla) et le silen
 
 ## Recherches Graphiques
 
-![]({{ site.url }}/assets/seven-steps_0.jpg)
+![](/assets/seven-steps_0.jpg)
 
-![]({{ site.url }}/assets/seven-steps_1.jpg)
+![](/assets/seven-steps_1.jpg)
 
-![]({{ site.url }}/assets/seven-steps_2.jpg)
+![](/assets/seven-steps_2.jpg)
 
-![]({{ site.url }}/assets/seven-steps_3.jpg)
+![](/assets/seven-steps_3.jpg)
 
-![]({{ site.url }}/assets/seven-steps_4.jpg)
+![](/assets/seven-steps_4.jpg)
 
-![]({{ site.url }}/assets/seven-steps_5.jpg)
+![](/assets/seven-steps_5.jpg)
 
-![]({{ site.url }}/assets/seven-steps_6.jpg)
+![](/assets/seven-steps_6.jpg)
 
-![]({{ site.url }}/assets/seven-steps_7.jpg)
+![](/assets/seven-steps_7.jpg)
 
-![]({{ site.url }}/assets/seven-steps_8.jpg)
+![](/assets/seven-steps_8.jpg)
 
-![]({{ site.url }}/assets/seven-steps_9.jpg)
+![](/assets/seven-steps_9.jpg)
 
 ## Screenshots du film
 
-![]({{ site.url }}/assets/seven-steps_10.jpg)
+![](/assets/seven-steps_10.jpg)
 
-![]({{ site.url }}/assets/seven-steps_11.jpg)
+![](/assets/seven-steps_11.jpg)
 
-![]({{ site.url }}/assets/seven-steps_12.jpg)
+![](/assets/seven-steps_12.jpg)
 
-![]({{ site.url }}/assets/seven-steps_13.jpg)
+![](/assets/seven-steps_13.jpg)
 
-![]({{ site.url }}/assets/seven-steps_14.jpg)
+![](/assets/seven-steps_14.jpg)
 
-![]({{ site.url }}/assets/seven-steps_15.jpg)
+![](/assets/seven-steps_15.jpg)
 
-![]({{ site.url }}/assets/seven-steps_16.jpg)
+![](/assets/seven-steps_16.jpg)
