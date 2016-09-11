@@ -2,7 +2,7 @@
 layout: post
 title: Animation Expérimentale
 date: 2016-08-15 15:02:28 +0200
-thumbnail: AnimationExp.gif
+thumbnail: AnimationExp-fixe.png
 ---
 
 ![]({{ site.url }}/assets/windstorm_3.jpg)

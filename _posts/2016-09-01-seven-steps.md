@@ -2,7 +2,7 @@
 layout: post
 title: Seven steps
 date: 2016-08-15 15:02:28 +0200
-thumbnail: DavidVent-carre.gif
+thumbnail: SevenSteps-fixe.png
 ---
 
 ## Introduction et Synopsis
