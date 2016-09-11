@@ -3,10 +3,9 @@ layout: page
 title: Mathilde Rouault
 ---
 
+<img alt="Mathilde Rouault" src="/assets/MATHILDE-ROUAULT-montagne.png" />
 {% for post in site.posts  %}
-  <ul class="c-archives__list">
-    <li class="c-archives__item">
-      <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-    </li>
-  </ul>
+<a href="{{ post.url | prepend: site.baseurl }}">
+  <img alt="{{ post.title }}" src="/assets/{{ post.thumbnail }}" />
+</a>
 {% endfor %}
