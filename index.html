@@ -1,12 +1,44 @@
----
-layout: page
-title: Mathilde Rouault
----
+<!DOCTYPE html>
+<html>
 
-<img alt="Mathilde Rouault" src="/assets/MATHILDE-ROUAULT-montagne1024.png" />
-{% for post in site.posts  %}
-<a href="{{ post.url | prepend: site.baseurl }}"
-   style="width: 350px; height: 350px; display: inline-block; margin: 0; padding: 0;
-          background: url('/assets/{{ post.thumbnail }}') center / cover;">
-</a>
-{% endfor %}
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Mathilde Rouault</title>
+    <meta name="description" content="Mathilde Rouault">
+
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,400italic,700|Roboto+Mono:400,500' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+    <article class="c-article">
+        <div class="c-article__main">
+
+            <img alt="Mathilde Rouault" src="assets/MATHILDE-ROUAULT-montagne1024.png" />
+
+            <a href="video-mapping.html" style="width: 350px; height: 350px; display: inline-block; margin: 0; padding: 0;
+          background: url('assets/VideoMapping-fixe.png') center / cover;">
+            </a>
+
+            <a href="stop-motion.html" style="width: 350px; height: 350px; display: inline-block; margin: 0; padding: 0;
+          background: url('assets/StopMotion-fixe.png') center / cover;">
+            </a>
+
+            <a href="seven-steps.html" style="width: 350px; height: 350px; display: inline-block; margin: 0; padding: 0;
+          background: url('assets/SevenSteps-fixe.png') center / cover;">
+            </a>
+
+            <a href="animation-experimentale.html" style="width: 350px; height: 350px; display: inline-block; margin: 0; padding: 0;
+          background: url('assets/AnimationExp-fixe.png') center / cover;">
+            </a>
+
+        </div>
+    </article>
+</body>
+
+</html>
