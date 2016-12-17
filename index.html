@@ -13,29 +13,56 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
     <link rel="stylesheet" href="css/main.css">
+
+    <style media="screen">
+        .thumbnail {
+            width: 350px;
+            height: 350px;
+            display: inline-block;
+            margin: 0;
+            padding: 0;
+        }
+
+        #video-mapping {
+            background: url('assets/video-mapping-fixe.png') center / cover;
+        }
+        #video-mapping:hover {
+            background: url('assets/video-mapping.gif') center / cover;
+        }
+
+        #stop-motion {
+            background: url('assets/stop-motion-fixe.png') center / cover;
+        }
+        #stop-motion:hover {
+            background: url('assets/stop-motion.gif') center / cover;
+        }
+
+        #seven-steps {
+            background: url('assets/seven-steps-fixe.png') center / cover;
+        }
+        #seven-steps:hover {
+            background: url('assets/seven-steps.gif') center / cover;
+        }
+
+        #animation-experimentale {
+            background: url('assets/animation-experimentale-fixe.png') center / cover;
+        }
+        #animation-experimentale:hover {
+            background: url('assets/animation-experimentale.gif') center / cover;
+        }
+    </style>
 </head>
 
 <body>
     <article class="c-article">
         <div class="c-article__main">
 
-            <img alt="Mathilde Rouault" src="assets/MATHILDE-ROUAULT-montagne1024.png" />
+            <img alt="Mathilde Rouault" src="assets/mathilde-rouault-montagne.png" />
 
-            <a href="video-mapping.html" style="width: 350px; height: 350px; display: inline-block; margin: 0; padding: 0;
-          background: url('assets/VideoMapping-fixe.png') center / cover;">
-            </a>
-
-            <a href="stop-motion.html" style="width: 350px; height: 350px; display: inline-block; margin: 0; padding: 0;
-          background: url('assets/StopMotion-fixe.png') center / cover;">
-            </a>
-
-            <a href="seven-steps.html" style="width: 350px; height: 350px; display: inline-block; margin: 0; padding: 0;
-          background: url('assets/SevenSteps-fixe.png') center / cover;">
-            </a>
-
-            <a href="animation-experimentale.html" style="width: 350px; height: 350px; display: inline-block; margin: 0; padding: 0;
-          background: url('assets/AnimationExp-fixe.png') center / cover;">
-            </a>
+            <a id="video-mapping" class="thumbnail" href="video-mapping.html"></a>
+            <a id="stop-motion" class="thumbnail" href="stop-motion.html"></a>
+            <a id="seven-steps" class="thumbnail" href="seven-steps.html"></a>
+            <a id="animation-experimentale" class="thumbnail" href="animation-experimentale.html"></a>
 
         </div>
     </article>
